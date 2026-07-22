@@ -64,7 +64,7 @@ React • Node • Express • MongoDB
 
 ---
 
-### 📈 NexaTrade
+### 📈 Zerodha
 Stock Trading Platform
 
 - Dashboard
@@ -77,27 +77,10 @@ React • Node • Express • MongoDB
 
 ---
 
-### 🤖 CreditWise
-
-Machine Learning Loan Prediction
-
-- Data Cleaning
-- Model Training
-- Accuracy Comparison
-
-Tech:
-Python • Scikit-Learn • Pandas
-
----
 
 
 ## 📫 Connect With Me
 
-LinkedIn:
-[your-link](https://www.linkedin.com/in/bhabasindhu-das-web)
-
-Portfolio:
-[your-link](https://portfolio-kohl-one-v7sfueoexw.vercel.app/)
-
-Email:
-bhabasindhudas621@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/bhabasindhu-das-web
+🌐 Portfolio: https://portfolio-kohl-one-v7sfueoexw.vercel.app/
+📧 Email: bhabasindhudas621@gmail.com
