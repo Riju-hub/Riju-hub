@@ -83,6 +83,6 @@ React • Node • Express • MongoDB
 
 💼 LinkedIn: https://www.linkedin.com/in/bhabasindhu-das-web
 
-🌐 Portfolio: https://portfolio-kohl-one-v7sfueoexw.vercel.app/
+🌐 Portfolio: https://bhabasindhudas.vercel.app/
 
 📧 Email: bhabasindhudas621@gmail.com
